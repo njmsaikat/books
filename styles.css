@@ -1,13 +1,1 @@
-div,
-section {
-  height: 100vh;
-}
 
-p::selection {
-  color: khaki;
-  background: rgb(240, 127, 127);
-}
-
-html {
-  scroll-behavior: smooth;
-}
