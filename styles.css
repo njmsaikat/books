@@ -244,9 +244,9 @@ header .container .col-md-7 button {
   border-top-left-radius: 170px;
 }
 
-.card-body .pricing h1 {
+.card-body .pricing > h1 {
   font-size: 10vmin;
-  padding: 1em 0.5em;
+  padding: 1em 1em;
 }
 
 /*section*3*/
