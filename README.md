@@ -9,3 +9,6 @@ A books shop website model
     their lives on the Arizona and about the citizens of Hiroshima who experienced unfathomable
      horror. 
 </p>
+<h6>A Complete book selling sample web site frontend</h6>
+
+<a href="https://njmsaikat.github.io/saikat/" target="_blank"> &copy; Saikat</a>
