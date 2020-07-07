@@ -15,6 +15,15 @@ A books shop website model
 
 - Html5
 - CSS3
+- Bootstrap
 - JavaScript
+
+## Features
+
+1. Responsive
+2. User Friendly Interface
+3. Multiple display size supported
+4. Animation and CSS
+5. Interactive to Users
 
 <a href="https://njmsaikat.github.io/saikat/" target="_blank"> &copy; Saikat</a>
