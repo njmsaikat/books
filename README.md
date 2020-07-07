@@ -11,9 +11,10 @@ A books shop website model
 </p>
 <h6>A Complete book selling sample web site frontend</h6>
 
-#Building tools here-
-*Html5
-*CSS3
-\*JavaScript
+# Building tools here-
+
+- Html5
+- CSS3
+- JavaScript
 
 <a href="https://njmsaikat.github.io/saikat/" target="_blank"> &copy; Saikat</a>
