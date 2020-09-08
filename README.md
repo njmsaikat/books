@@ -101,7 +101,6 @@ header {
 
 ![Logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Down Here")
 
-![Logo](elements/me.jpg "Saikat Roy")
 
 | Name       |        Email        |
 | ---------- | :-----------------: |
