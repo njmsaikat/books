@@ -96,5 +96,15 @@ header {
 
 ```
 
+> Contact The Developer:
 
+
+![Logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Down Here")
+
+
+| Name       |        Email        |
+| ---------- | :-----------------: |
+| Saikat Roy | njmsaikat@gmail.com |
+
+<a href="https://njmsaikat.github.io/saikat/" target="_blank"> &copy; Saikat</a>
 
