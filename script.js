@@ -33,11 +33,4 @@ let nCount = function (selector) {
   });
 };
 
-let a = 0;
-$(window).scroll(function () {
-  let oTop = $(".numbers").offset().top - window.innerHeight;
-  if (a == 0 && $(window).scrollTop() >= oTop) {
-    a++;
-    nCount(".rect>h1");
-  }
-});
+
